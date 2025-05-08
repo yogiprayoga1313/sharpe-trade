@@ -4,9 +4,9 @@ Bot untuk melakukan swap otomatis di Monad Network dengan fitur credit tracking.
 
 ## Fitur
 
-- Swap otomatis MON ke WMON (5x)
+- Swap otomatis MON ke SHARPE 
 - Menunggu credit update setiap swap
-- Swap balik semua WMON ke MON di akhir
+- Swap balik semua SHARPE ke MON di akhir
 - Tracking points dan credit activity
 
 ## Prasyarat
@@ -113,6 +113,3 @@ await delay(5000); // 5 seconds delay
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-## Lisensi
-
-MIT License - lihat file [LICENSE](LICENSE) untuk detail
